@@ -6,15 +6,16 @@
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-6.14.1-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-
 A framework that helps you quickly package your Python projects into standalone `.exe` executable files using PyInstaller. Supports both GUI interface version and background running version.
+
+<br>
 
 ## 📚 Table of Contents
 
 - [Framework Features](#-framework-features)
 - [Project Structure](#-project-structure)
 - [Quick Start](#-quick-start)
-- [Integrating Your Own Code](#-integrating-your-own-code)
+- [Integrating Your Own Code](#%EF%B8%8F-integrating-your-own-code)
 - [Package Code to EXE](#-package-code-to-exe)
 - [Common Issues](#-common-issues)
 - [License](#-license)

@@ -6,7 +6,20 @@
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-6.14.1-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+
 利用 PyInstaller 帮助你将自己的 Python 项目快速打包成独立的 `.exe` 可执行文件。支持 GUI 界面版本和后台运行版本。
+
+<br>
+
+## 📚 目录
+
+- [框架特性](#-框架特性)
+- [项目结构](#-项目结构)
+- [快速开始](#-快速开始)
+- [集成自己的代码](#%EF%B8%8F-集成自己的代码)
+- [打包代码到EXE](#-打包代码到exe)
+- [常见问题](#-常见问题)
+- [许可证](#-许可证)
 
 <br>
 
