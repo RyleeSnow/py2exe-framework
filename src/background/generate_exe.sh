@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=icon.ico run_background.py
